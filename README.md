@@ -63,5 +63,5 @@ A complete production-ready MERN Stack Progressive Web Application for attendanc
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/openmind-worktrack.git
+git clone https://github.com/Suraj6282/openmind-worktrack.git
 cd openmind-worktrack
